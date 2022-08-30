@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- I'm currently working mainly in PHP/Laravel environment, and venturing into golang.
-
 ##### Contacts
 
 <div>
