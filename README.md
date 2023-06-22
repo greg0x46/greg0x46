@@ -7,8 +7,6 @@
   <a href="mailto:greg0x46@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </div>
 
-------
-
 
 <!--
 **greg0x46/greg0x46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
